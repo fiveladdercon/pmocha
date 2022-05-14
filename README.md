@@ -35,7 +35,7 @@ Requires perl to be installed and in the $PATH.
 1. Clone the repository:
 
    ```
-   $ git clone http://fiveladdercon.github.com/pmocha
+   $ git clone http://github.com/fiveladdercon/pmocha
    ```
 
 2. Set the **$PMOCHA** environment variable to the pmocha repository:
